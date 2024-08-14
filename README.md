@@ -1,4 +1,5 @@
 ## Hi there 👋
+![:kabkak](https://count.getloli.com/get/@:kabkak?theme=gelbooru-h)
 
 <!--
 **kabkak/kabkak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
